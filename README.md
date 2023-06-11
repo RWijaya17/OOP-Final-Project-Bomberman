@@ -10,5 +10,7 @@ Run the engine java for the code to work
 
 To access the project report, download and open ProjectReport.pdf
 
-Video Demonstration video: 
+Video Demonstration video:
+
+
 Thank you for trying and enjoy the game!!!
