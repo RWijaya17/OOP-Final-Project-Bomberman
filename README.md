@@ -8,7 +8,7 @@ Controls: Left, right, up, bottom arrow keys to move left, right, up and down
 Run the engine java for the code to work
 
 
-To access the project report, download and open Bomberman Final OOP Project Report.pdf
+To access the project report, download and open Bomberman Final Project Report.pdf
 
 Video Demonstration video:
 https://drive.google.com/drive/folders/1SRxaE1cZRZngshUsGhNT20rhoaSlZoIt?usp=drive_link
